@@ -1,0 +1,15 @@
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/bin/Debug/net6.0/day1
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/bin/Debug/net6.0/day1.deps.json
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/bin/Debug/net6.0/day1.runtimeconfig.json
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/bin/Debug/net6.0/day1.dll
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/bin/Debug/net6.0/ref/day1.dll
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/bin/Debug/net6.0/day1.pdb
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/obj/Debug/net6.0/day1.csproj.AssemblyReference.cache
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/obj/Debug/net6.0/day1.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/obj/Debug/net6.0/day1.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/obj/Debug/net6.0/day1.AssemblyInfo.cs
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/obj/Debug/net6.0/day1.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/obj/Debug/net6.0/day1.dll
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/obj/Debug/net6.0/ref/day1.dll
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/obj/Debug/net6.0/day1.pdb
+/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/obj/Debug/net6.0/day1.genruntimeconfig.cache

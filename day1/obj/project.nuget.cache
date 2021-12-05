@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3n199Cb+1lcNxQHPUllI90pwBocXnwX9FHZ0Eldj4KAvne+rH0qaoaHKl8a34bGFC+7rSkYL+RBdKOn3wxvpw==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/advent_of_code/advent-of-code-2021/day1/day1.csproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
