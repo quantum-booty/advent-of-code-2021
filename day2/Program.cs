@@ -4,14 +4,6 @@ namespace Program
 {
     class Program
     {
-        static void Part1Test(int[] test_input)
-        {
-        }
-        static void Part2()
-        {
-            string[] raw = System.IO.File.ReadAllLines("input.txt");
-        }
-
         class Submarine
         {
             public int Horizontal { get; set; }
